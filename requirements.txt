@@ -1,2 +1,4 @@
 slack_bolt
-farm-haystack[inference]
+transformers
+torch
+SentencePiece
