@@ -2,3 +2,5 @@ slack_bolt
 transformers
 torch
 SentencePiece
+langchain
+openai==0.28
